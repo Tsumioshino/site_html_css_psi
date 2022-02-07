@@ -12,9 +12,9 @@
 
 .card {
   text-align: justify;
-  row-gap: 8px;
+  row-gap: 6px;
   width: 25rem;
-  border-radius: 80px;
+  border-radius: 50px;
   padding-left: 14px;
   padding-right: 14px;
   font-size: 102%; 
