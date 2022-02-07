@@ -4,29 +4,22 @@
 .wrapper-main-card {
    display: grid;
    align-content: center;
-   justify-items: center;
    padding: 40px;
-   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-   row-gap: 120px;
+   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+   row-gap: 100px;
    column-gap:40px;
-   grid-auto-rows: 180px;
  }
 
 .card {
-  color: grey;
-  width: 18rem;
-  height: 16rem;
-}
-
-.card-body {
-   justify-self: center;
- }
-
-.box {
-  text-align: center;
-  background-color: #444;
-  color: #fff;
+  text-align: justify;
+  row-gap: 8px;
+  width: 25rem;
   border-radius: 80px;
-  padding: 40px;
-  font-size: 102%;
+  font-size: 102%; 
+
+}
+.card-body {
+  flex: 0 1 auto;
+  margin:auto;
+
 }
