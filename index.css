@@ -16,10 +16,10 @@
   width: 25rem;
   border-radius: 80px;
   font-size: 102%; 
-
 }
-.card-body {
-  flex: 0 1 auto;
+.thecard-title {
   margin:auto;
 
 }
+
+
