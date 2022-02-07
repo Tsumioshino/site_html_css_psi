@@ -15,14 +15,13 @@
   row-gap: 8px;
   width: 25rem;
   border-radius: 80px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
   font-size: 102%; 
+
 }
 .thecard-title {
   margin:auto;
   padding-top: 20px;
 
 }
-
-
